@@ -1,3 +1,5 @@
 # VisionScripts
-Scripts focused on Object Detection and Tracking  
-Purpose of this Repository is to show some vision based examples I have worked on. 
+Repository focused on displaying some examples of work I have done concerning:  
+- Object Detection
+- Object Tracking
+- Colour Detection
